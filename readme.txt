@@ -1,2 +1,1 @@
-i am git
-dddd
+print("欢迎您来到我的GitHub仓库，我下面也没啥好东西其实")
